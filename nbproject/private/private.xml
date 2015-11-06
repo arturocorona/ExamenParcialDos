@@ -3,10 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/arturo/Desktop/ExamenParcialDos/test/ApplicationTest.java</file>
-            <file>file:/home/arturo/Desktop/ExamenParcialDos/app/views/Application/index.html</file>
-            <file>file:/home/arturo/Desktop/ExamenParcialDos/app/views/main.html</file>
-            <file>file:/home/arturo/Desktop/ExamenParcialDos/app/controllers/Application.java</file>
+            <file>file:/home/arturo/Desktop/ExamenParcialDos/app/models/Producto.java</file>
+            <file>file:/home/arturo/Desktop/ExamenParcialDos/app/models/Venta.java</file>
+            <file>file:/home/arturo/Desktop/ExamenParcialDos/app/controllers/Productos.java</file>
+            <file>file:/home/arturo/Desktop/ExamenParcialDos/app/views/Productos/blank.html</file>
+            <file>file:/home/arturo/Desktop/ExamenParcialDos/conf/routes</file>
+            <file>file:/home/arturo/Desktop/ExamenParcialDos/conf/dependencies.yml</file>
         </group>
     </open-files>
 </project-private>

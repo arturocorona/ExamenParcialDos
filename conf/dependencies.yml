@@ -1,7 +1,5 @@
 # Application dependencies
-# play deps --sync //sincronizar dependencias nuevas
 
 require:
-    - play
-    - com.google.code.gson -> gson 2.4
     - play -> crud
+    - play -> morphia 1.2.12
